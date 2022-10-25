@@ -1,6 +1,5 @@
-#include "../Drivers/colors.h"
 #include "string.h"
-#include "../Util/stdint.h"
+#include "../Include/stdint.h"
 
 extern char greet[];
 extern uint16_t *disk_buff_ptr;
