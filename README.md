@@ -2,18 +2,17 @@
 
 this project tries to build an operating system from scratch.
 
-<ul>
-    <li>hello</li>
-    <li>bello</li>
-</ul>
 so far created
-    - a boot loader
-    - a basic 80x25 vga screen driver
-    - a keyboard driver
-    - a shutdown mechanism
+<ul>
+    <li>a boot loader</li>
+    <li>a basic 80x25 vga screen driver</li>
+    <li>a keyboard driver</li>
+    <li>a shutdown mechanism</li>
+</ul>
     
 next on the list is
-    - disk read/write driver
-    - a basic file system
-  and much more..
-  
+<ul>
+    <li>disk read/write driver</li>
+    <li>a basic file system</li>
+    <li> and much more..</li>
+</ul>
