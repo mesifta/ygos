@@ -1,11 +1,18 @@
 # ygos
 
-this project tries to build an operating system from scratch.
+This project tries to build an operating system from scratch.
 
-so far created
+So far created
 <ul>
     <li>a boot loader</li>
+        <ul>
+            <li>Creating a gdt</li>
+            <li>Switching to 32bit protected mode</li>
+            <li>Loading our kernel to memory usig BIOS functions</li>
+        </ul> 
     <li>a basic 80x25 vga screen driver</li>
+    <li>setting up an IDT</li>
+    <li>Remapping the PIC</li>
     <li>a keyboard driver</li>
     <li>a shutdown mechanism</li>
 </ul>
