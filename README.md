@@ -2,7 +2,11 @@
 
 this project tries to build an operating system from scratch.
 
-#so far created
+<ul>
+    <li>hello</li>
+    <li>bello</li>
+</ul>
+so far created
     - a boot loader
     - a basic 80x25 vga screen driver
     - a keyboard driver
