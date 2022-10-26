@@ -6,6 +6,7 @@ So far created
 <ul>
     <li>a boot loader</li>
         <ul>
+            <li>Printing to screen using BIOS functions</li>
             <li>Creating a gdt</li>
             <li>Switching to 32bit protected mode</li>
             <li>Loading our kernel to memory usig BIOS functions</li>
@@ -21,5 +22,5 @@ next on the list is
 <ul>
     <li>disk read/write driver</li>
     <li>a basic file system</li>
-    <li> and much more..</li>
+    <li> and much more...</li>
 </ul>
